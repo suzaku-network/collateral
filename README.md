@@ -1,3 +1,5 @@
+**Note:** This repository has been archived. Content has been duplicated in [`suzaku-core`](https://github.com/suzaku-network/suzaku-core).
+
 # Suzaku Collateral
 
 This repository contains a Suzaku Collateral interface and its default implementation.
